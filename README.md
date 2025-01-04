@@ -4,7 +4,8 @@
 # 1 信贷业务审批流程
 
 ![1](https://github.com/user-attachments/assets/ba9aad5a-3fa0-4662-b264-504f72a710b3)
-    
+![Screenshot_37](https://github.com/user-attachments/assets/09bd3719-ce22-448b-ac4c-4fc92b3ab293)
+
 
 
 准入策略、信用风险策略、反欺诈策略：一系列的if-else条件，满足条件可以继续进行下一步，不满足条件就直接拒绝。
