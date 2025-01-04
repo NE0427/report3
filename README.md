@@ -49,6 +49,7 @@
 其他校验：运营商信息、车辆信息、邮箱信息
 
 # 1.6 策略及模型体系
+![443caf4abdcf4546a8ad2c7279ed275d](https://github.com/user-attachments/assets/6bc33593-b8c1-4e34-ba3b-1cc75cea5f4a)
 
 
 
@@ -63,7 +64,8 @@
 历史逾期：历史逾期严重的用户禁入
 # 1.6.2 分群策略
 线上客群时常有较大变化，基于精准的用户画像和用户分群可以制定差异化策略， 取得更好的风控成果
- 
+ ![3cb07f0566ad44ce937560b0454c7e17](https://github.com/user-attachments/assets/409b8eb0-a904-488b-8cd7-7fcb84c5589a)
+
 
 
 # 1.6.3 反欺诈策略
@@ -164,6 +166,7 @@ LGB（LightGBM，Light Gredient Boosting Machine）
 模型区分度报表
 
 # 1.8 风控系统架构
+![10a3806d5ad942e1aa24b7684a83352b](https://github.com/user-attachments/assets/4352cf36-45dc-4e2b-aa4e-9e7622f83fca)
 
  
 
