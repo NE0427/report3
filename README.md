@@ -26,7 +26,8 @@
 
 用户数据：
 
-6fb2cf6864c48fbb90160328bec7143](https://github.com/user-attachments/assets/531324bb-31dd-43c2-97b8-13452d807450)
+![f6fb2cf6864c48fbb90160328bec7143](https://github.com/user-attachments/assets/4b237f5c-8f3f-43f5-9a84-e9d4b9501577)
+
 ![f![螢幕擷取畫面 2025-01-05 025109](https://github.com/user-attachments/assets/532dc422-4c93-4a3c-a361-b134c114a397)
 
 # 1.3 特征库构建
