@@ -24,7 +24,7 @@
 授信协议：授权获取央行征信等
 
 用户数据：
-
+![f6fb2cf6864c48fbb90160328bec7143](https://github.com/user-attachments/assets/531324bb-31dd-43c2-97b8-13452d807450)
 
 
 # 1.3 特征库构建
