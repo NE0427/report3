@@ -1,10 +1,10 @@
 # 【金融风控项目-05】：信贷业务审批流程介绍
-11124121林宜頌 11124117張哲維
+11124101林宥慈 11124102林宥君
 
 # 1 信贷业务审批流程
 
-![text1](https://github.com/user-attachments/assets/82d15d37-7fe6-4f1d-b6ac-d87f60e35754)    
-![text2](https://github.com/user-attachments/assets/94449998-4a9d-42f8-a342-f82bf4718790)    
+![1](https://github.com/user-attachments/assets/ba9aad5a-3fa0-4662-b264-504f72a710b3)
+    
 
 
 准入策略、信用风险策略、反欺诈策略：一系列的if-else条件，满足条件可以继续进行下一步，不满足条件就直接拒绝。
@@ -24,8 +24,6 @@
 授信协议：授权获取央行征信等
 
 用户数据：
-![text225](https://github.com/user-attachments/assets/f1b965d9-5f12-48f2-a46b-423dd7b375f3)  
-![text3](https://github.com/user-attachments/assets/e3d446e3-2542-47a7-bcb6-729d254f7e78)  
 
 
 
@@ -37,7 +35,7 @@
 特征库：正是用于衔接丰富的数据资源与业务场景，特征库构建的意义在于将采集到的原始数据赋予业务含义。
 
 特征库可以简单的理解为是一张具有业务逻辑的数据字典表格。根据特征库，可以将数据平台中非结构化数据标准换为能够表征风险水平的字段表。
-![text4](https://github.com/user-attachments/assets/58e23215-2bcd-4828-97b6-ea8a397d27fd)  
+ 
 
 # 1.5 身份验证
 实名认证：二要素、三要素、四要素验证
@@ -51,7 +49,7 @@
 其他校验：运营商信息、车辆信息、邮箱信息
 
 # 1.6 策略及模型体系
-![text2265](https://github.com/user-attachments/assets/637852c7-f65e-44a9-a3ef-c3926e711e0f)    
+
 
 
 # 1.6.1 准入策略
@@ -65,7 +63,7 @@
 历史逾期：历史逾期严重的用户禁入
 # 1.6.2 分群策略
 线上客群时常有较大变化，基于精准的用户画像和用户分群可以制定差异化策略， 取得更好的风控成果
-![text226](https://github.com/user-attachments/assets/b9ba2b14-a3bd-4f22-98e4-b0dddd279988)  
+ 
 
 
 # 1.6.3 反欺诈策略
@@ -102,7 +100,7 @@
 
 信用分险策略开发:决策树(CART回归树)
 
-  ![text6](https://github.com/user-attachments/assets/a6d00d52-0276-411d-93ec-054382cf0144)  
+ 
 
 
 
@@ -167,7 +165,7 @@ LGB（LightGBM，Light Gredient Boosting Machine）
 
 # 1.8 风控系统架构
 
-![text2268](https://github.com/user-attachments/assets/32697d43-78c5-424e-9dff-04e305c67201)  
+ 
 
 # 1.9 小结
 信贷业务的基本流程：
